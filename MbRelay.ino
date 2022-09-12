@@ -10,7 +10,7 @@
 /************* End Includes *************/
 
 /************* OTA Update *************/
-#define CURRENT_FIRMWARE_TITLE    "MB-Relay-2-Ch"
+#define CURRENT_FIRMWARE_TITLE    "MB-Relay-4-Ch"
 #define CURRENT_FIRMWARE_VERSION  "1.0.0"
 /************* End OTA *************/
 
